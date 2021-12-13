@@ -1,2 +1,2 @@
-# reactkihon
+# reactcode
 Created with CodeSandbox
