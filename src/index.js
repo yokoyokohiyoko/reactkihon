@@ -87,7 +87,7 @@
 // console.log(arr6)
 // console.log(arr4)
 
-const nameArr = ["hiyoko", "山田", "じゃけぇ"]
+// const nameArr = ["hiyoko", "山田", "じゃけぇ"]
 // for (let index = 0; index < nameArr.length; index++) {
 //   console.log(`${index + 1}番目は${nameArr[index]}です`)
 // }
@@ -102,7 +102,7 @@ const nameArr = ["hiyoko", "山田", "じゃけぇ"]
 // console.log(nameArr2)
 
 // function(name: string)
-nameArr.map((name, index) => console.log(`${index + 1}番目は${name}です`))
+// nameArr.map((name, index) => console.log(`${index + 1}番目は${name}です`))
 
 // const numArr = [1, 2, 3, 4, 5]；
 // const newNumArr = numArr.filter((num) => {
@@ -110,3 +110,5 @@ nameArr.map((name, index) => console.log(`${index + 1}番目は${name}です`))
 // });
 
 // console.log(newNumArr);
+
+//
